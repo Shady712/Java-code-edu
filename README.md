@@ -9,3 +9,6 @@ Java code written in the very beginning of learning this language (from HelloWor
 
 # Markdown
 Markdown is a lightweight markup language. This Java code includes classes which implement this kind of markup.
+
+# MNKGame
+This is the realisation of famous Tic-Tac-Toe game on Java. But this is the extended version of the game: program supports any size of the board (MxN). You can also play on a rhombus board against some simple computer opponents.
