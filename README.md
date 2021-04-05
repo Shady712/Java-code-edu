@@ -10,5 +10,8 @@ Java code written in the very beginning of learning this language (from HelloWor
 # Markdown
 Markdown is a lightweight markup language. This Java code includes classes which implement this kind of markup.
 
-# MNKGame
+# MNK Game
 This is the realisation of famous Tic-Tac-Toe game on Java. But this is the extended version of the game: program supports any size of the board (MxN). You can also play on a rhombus board against some simple computer opponents.
+
+# Binary Search
+This is the simple program which implements famous binary search algorithm (and some more complicated version of search too). The point of the project is to prove that the algorithm is correct. For this reason, Hoare logic and contract-based programming are used.
