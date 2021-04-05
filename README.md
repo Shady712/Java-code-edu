@@ -15,3 +15,6 @@ This is the realisation of famous Tic-Tac-Toe game on Java. But this is the exte
 
 # Binary Search
 This is the simple program which implements famous binary search algorithm (and some more complicated version of search too). The point of the project is to prove that the algorithm is correct. For this reason, Hoare logic and contract-based programming are used.
+
+# Queue
+Java code which implements queue data structure. Queue is based on array, linked list, module, etc. The algorithm is proved to be correct by the use of Hoare logic and contract-based programming
